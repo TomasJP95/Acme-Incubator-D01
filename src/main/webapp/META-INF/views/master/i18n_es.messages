@@ -39,6 +39,9 @@ master.menu.anonymous.create-marin-bulletin = Publicar en boletín de María
 master.menu.anonymous.list-jimenez-bulletin = Boletín de Tomás
 master.menu.anonymous.create-jimenez-bulletin = Publicar en boletín de Tomás
 
+master.menu.anonymous.list-fernandez-bulletin = Boletín de Marco
+master.menu.anonymous.create-fernandez-bulletin = Publicar en boletín de Marco
+
 # master.menu.administrator ###################################################
 
 master.menu.administrator = Administrador
