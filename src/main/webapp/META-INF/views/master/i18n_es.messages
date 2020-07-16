@@ -34,6 +34,9 @@ master.menu.anonymous.favourite-link-Maria = Enlace favorito de Maria
 master.menu.anonymous.favourite-link-marco = Enlace favorito de Marco
 master.menu.anonymous.favourite-link-Tomas = Enlace favorito de Tomas
 
+master.menu.anonymous.list-marin-bulletin = Boletín de María
+master.menu.anonymous.create-marin-bulletin = Publicar en boletín de María
+
 # master.menu.administrator ###################################################
 
 master.menu.administrator = Administrador
