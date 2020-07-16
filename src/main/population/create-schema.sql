@@ -29,6 +29,42 @@
         primary key (`id`)
     ) engine=InnoDB;
 
+    create table `donaire_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `description` varchar(255),
+        `moment` datetime(6),
+        `web` varchar(255),
+        primary key (`id`)
+    ) engine=InnoDB;
+
+    create table `fernandez_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `description` varchar(255),
+        `moment` datetime(6),
+        `web` varchar(255),
+        primary key (`id`)
+    ) engine=InnoDB;
+
+    create table `jimenez_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `description` varchar(255),
+        `moment` datetime(6),
+        `web` varchar(255),
+        primary key (`id`)
+    ) engine=InnoDB;
+
+    create table `marin_bulletin` (
+       `id` integer not null,
+        `version` integer not null,
+        `description` varchar(255),
+        `moment` datetime(6),
+        `web` varchar(255),
+        primary key (`id`)
+    ) engine=InnoDB;
+
     create table `provider` (
        `id` integer not null,
         `version` integer not null,
