@@ -30,19 +30,19 @@ master.menu.sign-out = Sign out
 
 master.menu.anonymous = Anonymous
 master.menu.anonymous.favourite-link = Anonymous favourite link
-master.menu.anonymous.favourite-link-Maria = Maria's favourite link
-master.menu.anonymous.favourite-link-marco = Marco's favourite link
-master.menu.anonymous.favourite-link-Tomas = Tomas's favourite link
-master.menu.anonymous.favourite-link-Sara = Sara's favourite link
+master.menu.anonymous.favourite-link-marin = Marin's favourite link
+master.menu.anonymous.favourite-link-fernandez = Fernandez's favourite link
+master.menu.anonymous.favourite-link-jimenez = Jimenez's favourite link
+master.menu.anonymous.favourite-link-donaire = Donaire's favourite link
 
-master.menu.anonymous.list-marin-bulletin = Maria's bulletin
-master.menu.anonymous.create-marin-bulletin = Publish in Maria's bulletin
-master.menu.anonymous.list-jimenez-bulletin = Tomas's bulletin
-master.menu.anonymous.create-jimenez-bulletin = Publish in Tomas's bulletin
-master.menu.anonymous.list-donaire-bulletin = Sara's bulletin
-master.menu.anonymous.create-donaire-bulletin = Publish in Sara's bulletin
-master.menu.anonymous.list-fernandez-bulletin = Marco's bulletin
-master.menu.anonymous.create-fernandez-bulletin = Publish in Marco's bulletin
+master.menu.anonymous.list-marin-bulletin = Marin's bulletin
+master.menu.anonymous.create-marin-bulletin = Publish in Marin's bulletin
+master.menu.anonymous.list-jimenez-bulletin = Jimenez's bulletin
+master.menu.anonymous.create-jimenez-bulletin = Publish in Jimenez's bulletin
+master.menu.anonymous.list-donaire-bulletin = Donaire's bulletin
+master.menu.anonymous.create-donaire-bulletin = Publish in Donaire's bulletin
+master.menu.anonymous.list-fernandez-bulletin = Fernandez's bulletin
+master.menu.anonymous.create-fernandez-bulletin = Publish in Fernandez's bulletin
 
 # master.menu.administrator ###################################################
 
