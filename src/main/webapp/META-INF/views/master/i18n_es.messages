@@ -33,12 +33,14 @@ master.menu.anonymous.favourite-link = Enlace favorito anonimo
 master.menu.anonymous.favourite-link-Maria = Enlace favorito de Maria
 master.menu.anonymous.favourite-link-marco = Enlace favorito de Marco
 master.menu.anonymous.favourite-link-Tomas = Enlace favorito de Tomas
+master.menu.anonymous.favourite-link-Sara = Enlace favorito de Sara
 
 master.menu.anonymous.list-marin-bulletin = Boletín de María
 master.menu.anonymous.create-marin-bulletin = Publicar en boletín de María
 master.menu.anonymous.list-jimenez-bulletin = Boletín de Tomás
 master.menu.anonymous.create-jimenez-bulletin = Publicar en boletín de Tomás
-
+master.menu.anonymous.list-donaire-bulletin = Boletín de Sara
+master.menu.anonymous.create-donaire-bulletin = Publicar en boletín de Sara
 master.menu.anonymous.list-fernandez-bulletin = Boletín de Marco
 master.menu.anonymous.create-fernandez-bulletin = Publicar en boletín de Marco
 

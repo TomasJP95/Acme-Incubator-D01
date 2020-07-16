@@ -19,7 +19,12 @@
 	
 	<bean id="JimenezBulletin01" class="acme.entities.bulletins.JimenezBulletin">
 		<property name="web" value="http://youtube.com"/>
-		<property name="description" value="Página para ver vídeos"/>
+		<property name="description" value="Página para ver vídeos"></property>
 		<property name="moment" value="2020/01/20 10:00"/>
+	</bean>
+	<bean id="DonaireBulletin01" class="acme.entities.bulletins.DonaireBulletin">
+		<property name="web" value="https://www.idealista.com/"/>
+		<property name="description" value="Página para alquilar o comprar pisos o casas"></property>
+		<property name="moment" value="2020/05/01 21:00"/>
 	</bean>
 </beans>
