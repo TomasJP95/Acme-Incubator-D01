@@ -19,10 +19,10 @@
 <acme:menu-bar code="master.menu.home">
 	<acme:menu-left>
 		<acme:menu-option code="master.menu.anonymous" access="isAnonymous()">
-			<acme:menu-suboption code="master.menu.anonymous.favourite-link" action="http://www.example.com/"/>
-			<acme:menu-suboption code="master.menu.anonymous.favourite-link-Maria" action="http://www.game.es/"/>
-			<acme:menu-suboption code="master.menu.anonymous.favourite-link-marco" action="http://weplan.appspot.com/"/>
-			<acme:menu-suboption code="master.menu.anonymous.favourite-link-Tomas" action="http://spotymp3.appspot.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-marin" action="http://www.game.es/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-fernandez" action="http://weplan.appspot.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-jimenez" action="http://spotymp3.appspot.com/"/>
+			<acme:menu-suboption code="master.menu.anonymous.favourite-link-donaire" action="https://www.idealista.com/"/>
 			
 			<acme:menu-separator />
 			
