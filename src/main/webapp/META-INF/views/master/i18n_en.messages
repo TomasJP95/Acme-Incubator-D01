@@ -37,6 +37,9 @@ master.menu.anonymous.favourite-link-Tomas = Tomas`s favourite link
 master.menu.anonymous.list-marin-bulletin = Maria's bulletin
 master.menu.anonymous.create-marin-bulletin = Publish in Maria's bulletin
 
+master.menu.anonymous.list-fernandez-bulletin = Marco's bulletin
+master.menu.anonymous.create-fernandez-bulletin = Publish in Marco's bulletin
+
 # master.menu.administrator ###################################################
 
 master.menu.administrator = Administrator
