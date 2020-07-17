@@ -34,6 +34,7 @@ master.menu.anonymous.favourite-link-marin = Enlace favorito de Marín
 master.menu.anonymous.favourite-link-fernandez = Enlace favorito de Fernández
 master.menu.anonymous.favourite-link-jimenez = Enlace favorito de Jiménez
 master.menu.anonymous.favourite-link-donaire = Enlace favorito de Donaire
+master.menu.anonymous.favourite-link-gonzalez = Enlace favorito de González
 
 master.menu.anonymous.list-marin-bulletin = Boletín de Marín
 master.menu.anonymous.create-marin-bulletin = Publicar en boletín de Marín
@@ -43,6 +44,8 @@ master.menu.anonymous.list-donaire-bulletin = Boletín de Donaire
 master.menu.anonymous.create-donaire-bulletin = Publicar en boletín de Donaire
 master.menu.anonymous.list-fernandez-bulletin = Boletín de Fernández
 master.menu.anonymous.create-fernandez-bulletin = Publicar en boletín de Fernández
+master.menu.anonymous.list-gonzalez-bulletin = Boletín de González
+master.menu.anonymous.create-gonzalez-bulletin = Publicar en boletín de González
 
 # master.menu.administrator ###################################################
 
