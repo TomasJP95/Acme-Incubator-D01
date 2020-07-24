@@ -19,32 +19,32 @@
 	
 	<!-- JimenezBulletin -->
 	<bean id="JimenezBulletin01" class="acme.entities.bulletins.JimenezBulletin">
-		<property name="web" value="http://youtube.com"/>
-		<property name="description" value="Página para ver vídeos"></property>
+		<property name="heroName" value="Thanos"/>
+		<property name="phrase" value="Yo soy inevitable"/>
 		<property name="moment" value="2020/01/20 10:00"/>
 	</bean>
 	<!-- DonaireBulletin -->
 	<bean id="DonaireBulletin01" class="acme.entities.bulletins.DonaireBulletin">
 		<property name="web" value="https://www.idealista.com/"/>
-		<property name="description" value="Página para alquilar o comprar pisos o casas"></property>
+		<property name="description" value="Página para alquilar o comprar pisos o casas"/>
 		<property name="moment" value="2020/05/01 21:00"/>
 	</bean>
 	<!-- FernandezBulletin -->
 	<bean id="FernandezBulletin01" class="acme.entities.bulletins.FernandezBulletin">
 		<property name="web" value="http://weplan.appspot.com/"/>
-		<property name="description" value="Página para buscar eventos."></property>
+		<property name="description" value="Página para buscar eventos."/>
 		<property name="moment" value="2020/03/01 21:00"/>
 	</bean>
 	<!-- MarinBulletin -->
 	<bean id="MarinBulletin01" class="acme.entities.bulletins.MarinBulletin">
 		<property name="web" value="https://www.game.es/"/>
-		<property name="description" value="Página de una tienda de videojuegos."></property>
+		<property name="description" value="Página de una tienda de videojuegos."/>
 		<property name="moment" value="2020/02/01 21:00"/>
 	</bean>
 	<!-- GonzalezBulletin -->
 	<bean id="GonzalezBulletin01" class="acme.entities.bulletins.GonzalezBulletin">
 		<property name="web" value="https://www.spotify.com/"/>
-		<property name="description" value="Página para escuchar música."></property>
+		<property name="description" value="Página para escuchar música."/>
 		<property name="moment" value="2020/07/10 17:00"/>
 	</bean>
 </beans>
