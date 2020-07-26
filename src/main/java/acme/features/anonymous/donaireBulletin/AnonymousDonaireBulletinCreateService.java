@@ -7,7 +7,6 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import acme.entities.bulletins.DonaireBulletin;
-import acme.entities.bulletins.JimenezBulletin;
 import acme.framework.components.Errors;
 import acme.framework.components.Model;
 import acme.framework.components.Request;
@@ -45,7 +44,7 @@ public class AnonymousDonaireBulletinCreateService implements AbstractCreateServ
 		assert entity != null;
 		assert model != null;
 
-		request.unbind(entity, model, "web", "description");
+		request.unbind(entity, model, "author", "text");
 	}
 
 	@Override
@@ -53,10 +52,12 @@ public class AnonymousDonaireBulletinCreateService implements AbstractCreateServ
 		assert request != null;
 
 		DonaireBulletin result = new DonaireBulletin();
+		Date moment;
 
-		result.setWeb("https://www.idealista.com/");
-		result.setDescription("Página para comprar y alquilar pisos o casas.");
-
+		moment = new Date(System.currentTimeMillis() - 1);
+		result.setAuthor("Carlos Ruiz Zafon");
+		result.setText("La sombra del viento");
+		result.setMoment(moment);
 		return result;
 	}
 
